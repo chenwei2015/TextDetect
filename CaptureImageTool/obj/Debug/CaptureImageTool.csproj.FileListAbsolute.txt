@@ -1,0 +1,9 @@
+X:\soft\TextDetect\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+X:\soft\TextDetect\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+X:\soft\TextDetect\CaptureImageTool\obj\Debug\CaptureImageTool.pdb

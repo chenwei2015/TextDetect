@@ -1,0 +1,10 @@
+X:\soft\CaptureScreen\CaptureImageTool\bin\Release\CaptureImageTool.dll
+X:\soft\CaptureScreen\CaptureImageTool\bin\Release\CaptureImageTool.pdb
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CaptureImageTool.csprojResolveAssemblyReference.cache
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.ColorSelector.resources
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CaptureImageTool.csproj.GenerateResource.Cache
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CaptureImageTool.dll
+X:\soft\CaptureScreen\CaptureImageTool\obj\Release\CaptureImageTool.pdb
